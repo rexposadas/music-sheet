@@ -14,3 +14,6 @@ T - Title
 M - Meter
 R - Rhythm ( optional )
 K - Key (after this line comes the notes)
+
+
+C> - Key of C stacatto

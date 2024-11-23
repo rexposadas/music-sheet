@@ -1,0 +1,16 @@
+
+X: 1
+T: I Surrender All
+T: Only the melody
+M: 4/4
+C: Original key is D
+K: E
+G2 G A2 G2| F2> F2 G2 F2| E2> E2 A2 G2| F2 G2 E4
+w: All to Je-sus I sur-ren-der All to Him I free-ly give
+G2> G2 A2 G2 | F2> F2 G2 F2| E2 E A2 G2 | F2 G2 E4
+w:I will e-ver love and trust Him, In his pre-sence dai-ly live.
+e2> d2 c2 B2 | A8| d2> c2 B2 A2| G8
+w: I sur-ren-der all I sur-ren-der all
+G2> A2 c2 B2| e2> d2 d2 c2| B2> A2 G2 F2|E8||
+w: All to thee, my bless-sed Sav-ior I sur-ren-der all
+
