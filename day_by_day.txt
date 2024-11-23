@@ -1,3 +1,7 @@
+
+
+Day by day original Key of D:
+
 X: 1
 T: Day by Day
 M: 4/4
@@ -13,4 +17,24 @@ w: I've no cause for wor-ry or for fear. He whose heart is kind be yond all
 c2 B4 EF| G2 G GB AG| F4 FE| D2 D
 w: meas-sure gives un-to each day what he deems best. lov-ing-ly its
 DD EF | F2 E4 ED | C C2 CD EC| D4||
+w: part of pain and plea-sure min-gling toil with peace-- and -rest
+
+
+-- below is transposed down for soprano sax (Bb)
+
+X: 1
+T: Day by Day
+M: 4/4
+L: 1/8
+C: For Dylan
+K: E
+GF | E2 E EE FG|G2 F4 FE   |D2 D
+w: Day by day and with each pass-ing mo-ment strength I find to
+DE FD| E4 GF     |E2 E EE FG |G2 F4
+w:meet my tri-als here; trus-ting in my fa-ther's wise be-stow-ment
+FE   | D2 D DE FD|E4 GA      |B2 B BB ed
+w: I've no cause for wor-ry or for fear. He whose heart is kind be yond all
+d2 c4 FG| A2 A Ac BA| G4 GF| E2 E
+w: meas-sure gives un-to each day what he deems best. lov-ing-ly its
+EE FG | G2 F4 FE | D D2 DE FD| E4||
 w: part of pain and plea-sure min-gling toil with peace-- and -rest
