@@ -4,8 +4,13 @@ M: 4/4
 L: 1/8
 C: For Dylan
 K: D
-FE   | D2 D DD EF|F2 E4 ED   |C2 C 
-CD EC| D4 FE     |D4 D DD EF |F2 E4
+FE | D2 D DD EF|F2 E4 ED   |C2 C
+w: Day by day and with each pass-ing mo-ment strength I find to
+CD EC| D4 FE     |D2 D DD EF |F2 E4
+w:meet my tri-als here; trus-ting in my fa-ther's wise be-stow-ment
 ED   | C2 C CD EC|D4 FG      |A2 A AA dc
+w: I've no cause for wor-ry or for fear. He whose heart is kind be yond all
 c2 B4 EF| G2 G GB AG| F4 FE| D2 D
-DD EF | F2 E4 ED | C C2 CD EC| D4
+w: meas-sure gives un-to each day what he deems best. lov-ing-ly its
+DD EF | F2 E4 ED | C C2 CD EC| D4||
+w: part of pain and plea-sure min-gling toil with peace-- and -rest
