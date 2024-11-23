@@ -4,13 +4,17 @@ T: Personal notes for Bass
 C: Made for Rex to play live
 M: 3/4
 K: D clef=bass
-D,2 E,2 F,2| "G"G,4> | G,8> D,4|"A7"E,2 z2 E,2 | A,,2 A,,2 A,,2  | "G"D,4>
+D,2 E,2 F,2| "F#"G,4> | "G (E empty)"G,8> D,4|E,2 z2 E,2 | "A"A,,2 A,,2 A,,2  | "G"D,4>
 w: O-pen our eyes Lord-- -we want to see Je
-D,8 C,2|B,,2 z2 B,,2| A,,2 A,,2 A,,2| G,,4>| E,8| A,,2 z2 A,,2
+%%vskip 2cm
+"D (F# empty)"D,8 C,2|B,,2 z2 B,,2| "D"A,,2 A,,2 A,,2| "B"G,,4>| "E (A empty)"E,8| A,,2 z2 A,,2
 w:sus,--- to reach out and touch- him-- and
-A,,2 A,,2 A,,2 | D,4>| (D,8> | D,8>) z4| D,2 E,2 F,2| G,4>
+%%vskip 2cm
+"A"A,,2 A,,2 A,,2 | "G"D,4>| "D"(D,8> | D,8>) z4| "D"D,2 E,2 F,2| "F#"G,4>
 w: say that we love him-. O-pen our ears
-G,8| E,2  z2 E,2| A,,2  A,,2  A,,2  | D,4> | D,8 C,2| B,,2 z2 z2
+%%vskip 2cm
+"G (E empty)"G,8| E,2  z2 E,2| "A"A,,2  A,,2  A,,2  | "G"D,4> | "D (F# empty) "D,8 C,2| B,,2 z2 z2
 w: Lord-, and help us to lis-ten
-A,,2 A,,2 A,,2 | G,,4>| E,8| A,,2 z2 A,,2| A,,2 A,,2 A,,2 | D,4> | (D,8>| D,8>)
+%%vskip 2cm
+"D"A,,2 A,,2 A,,2 | "B"G,,4>| "E (A empty)"E,8| A,,2 z2 A,,2| "A"A,,2 A,,2 A,,2 | "A"D,4> | "D"(D,8>| D,8>)
 w: O-pen our eyes, Lord-- we want to see Je-sus

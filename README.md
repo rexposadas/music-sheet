@@ -28,6 +28,8 @@ V:2 clef=bass
 [V:1] C E G c | d B G F |
 [V:2] C, E, G, C | F, G, A, B, |
 
+To put more space between measures
+%%vskip 2cm
 
 # To transpose
 
