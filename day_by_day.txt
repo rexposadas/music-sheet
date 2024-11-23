@@ -1,4 +1,9 @@
 
+Status: In complete
+What's needed:
+- All lyrics
+
+
 
 Day by day original Key of D:
 
@@ -6,19 +11,18 @@ X: 1
 T: Day by Day
 M: 4/4
 L: 1/8
-C: For Dylan
+C: Original key of D
 K: D
-FE | D2 D DD EF|F2 E4 ED   |C2 C
+FE | "D"D2 D DD EF|"G"F2 E4 ED   |"A"C2 C
 w: Day by day and with each pass-ing mo-ment strength I find to
-CD EC| D4 FE     |D2 D DD EF |F2 E4
+CD EC| "D"D4 FE     |"Bm"D2 D DD EF |"G"F2 E4
 w:meet my tri-als here; trus-ting in my fa-ther's wise be-stow-ment
-ED   | C2 C CD EC|D4 FG      |A2 A AA dc
+ED   | "A"C2 C CD EC|"D"D4 FG      |"D"A2 A AA dc
 w: I've no cause for wor-ry or for fear. He whose heart is kind be yond all
-c2 B4 EF| G2 G GB AG| F4 FE| D2 D
+c2 "G"B4 EF| "A"G2 G GB AG| "D"F4 FE| "Bm"D2 D
 w: meas-sure gives un-to each day what he deems best. lov-ing-ly its
-DD EF | F2 E4 ED | C C2 CD EC| D4||
+DD EF | "G"F2 E4 ED | "A"C C2 CD EC| "D"D4||
 w: part of pain and plea-sure min-gling toil with peace-- and -rest
-
 
 -- below is transposed down for soprano sax (Bb)
 
