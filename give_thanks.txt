@@ -1,0 +1,23 @@
+X: 1
+T: Give Thanks
+M: 4/4
+K: G
+B2 | "G"B4 AG| "D"A2 FD -D2 A2| "Em"G4 FE| "Bm"F2 DB, -B,2 F2
+w: Give thanks with a grate-ful heart, -give thanks to the Ho ly one -Give
+%%vskip 1cm
+"C"E4 -EGGE| D2 "G"G2 "Em"G2 B2| "F"A4 G2| "D"A4
+w: thanks -be-ca-use he's given Je-sus Christ His son.
+%%vskip 1cm
+d2 | "Bm"d4 dd | "Em"d2 G2 A2 B2| "Am"c4 cc| "D"c2 F2 G2 A2
+w: And now let the weak say I am strong. Let the poor say I am
+%%vskip 1cm
+"G"B4 -BBBB| "Em"B2 E2 F2 G2| "F"A4 G2| "D"A4 d2
+w: rich -because of -what the Lord has done for us And
+%%vskip 1cm
+"Bm"d4 dd| "Em"d2 G2 A2 B2| "Am"c4 cc|"D"c2 F2 G2 A2|
+w: now let the weak say I am strong Let the poor say I am
+%%vskip 1cm
+"G" B4 -BBBB| "Em"B2 E2 F2 G2| "F" A4 G2| "D"A4 G2| "G"G8
+w:rich -because of -what the Lord has done for us Give Thanks.
+
+
