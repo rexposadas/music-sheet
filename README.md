@@ -14,6 +14,9 @@ T - Title
 M - Meter
 R - Rhythm ( optional )
 K - Key (after this line comes the notes)
+L - Default note length 
+    L: 1/4 - default note length is quarter note
+    L: 1/8 - default note length is eigth note
 
 
 C> - Key of C stacatto
