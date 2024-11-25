@@ -3,13 +3,13 @@ T: Open Our Eyes, Lord
 M: 3/4
 L: 1/4
 K: D
-|: F G A | "F#"A2 "G"G2 | "E"-G2 D | "A"D E F|
+|: "D"F G A | "F#"A2 "G"G2 | "E"-G2 D | "A"D E F|
 w: O-pen our eyes, Lord, -we want to see
 w: O-pen our ears, Lord, -and help use to
 %%vskip 1cm
-"G"F3|"D"F3 | -F2 D | D E F/2-F/2| F3:| [1 E3 | -E2 C E F G| G3| F3 | -F3 :|
+"G"F3|"D"F3 | "F#"-F2 D | "D"D E F/2-F/2| "B"F3:| [1 "E"E3 | "A"-E2 C E F G| "G"G3| "D"F3 | -F3 :|
 w: Je-sus _To reach out and -touch Him -and say the we love Him
 w: lis-ten __ O-pen our _ eyes
 %%vskip 1cm
-[2 E3 | -E2 C C D E  | E3|D3| -D3 :|
+[2 "E"E3 | "A"-E2 C C D E  | E3|"D"D3| -D3 :|
 w: Lord, -we want to see Je-sus
