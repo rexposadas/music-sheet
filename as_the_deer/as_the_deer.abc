@@ -1,0 +1,19 @@
+X:1
+T:As The Deer
+L:1/4
+M:4/4
+K:D
+%%stretchlast true
+V:1 treble
+V:1
+ "D" F A "A" A F/E/        | "Bm" D E/ "G" G/F/E/D/              | "Em" B-B/B/ "A" A G/   | "D" A4                |
+w: As the deer pant- eth   |for the wa- ter so my                |soul long- eth af- ter  |Thee |
+%%vskip 1cm
+F "A" A A F/E/ | "Bm" D "G" E/ G/F/E/D/    | "Em7" D F/ "A7" E D/                | "D" D4 |
+w: You a- lone are my heart's de- si- re and I|long to wor- ship                    |Thee |
+%%vskip 1cm
+"Bm" d d d d/c/ | "G" B B "D" A D/ |  "G" B B B B/A/            | "Em" G G "F#" F2|
+w: You a- lone are my |strength my shield to |you a- lone will my     |spir- it yield
+%%vskip 1cm
+ "D" F A "A" A F/E/ | "Bm" D E/ "G" G/F/E/D/ | "Em7" D F/ "A7" E D/  |  "D" D4  ||
+w:You a- lone are my     |heart's de- si- re and I|long to wor- ship | Three  |
