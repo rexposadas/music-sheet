@@ -23,7 +23,7 @@ L - Default note length
     L: 1/8 - default note length is eight note
 
 
-C> - Key of C stacatto
+C> - Key of C staccato
 
 ^C - set key as sharp
 
@@ -52,6 +52,7 @@ To put more space between measures
 
 The files in the directory has different version of the song. 
 
+```text
 *.abc - These are the ABCjs notations
 *.xml - Converted abc notation to xml using abc2xml tool
 *.musicxml - Exported musicxml file from Musescore app
@@ -60,3 +61,4 @@ This is sometimes needed because the song was not in a hymnal.
 *_alto_clef.pdf - PDF transposed for alto instruments such as Violas. This is done using Musescore.
 *in_<key>.pdf - transposed to a different key i.e. _in_e.pdf - For convenience, so that the transposed file has been generated. 
 *_bass.abc - notation with only bass clef
+```
