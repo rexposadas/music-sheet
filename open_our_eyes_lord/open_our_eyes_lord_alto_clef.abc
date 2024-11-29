@@ -2,8 +2,8 @@ X: 1
 T: Open Our Eyes, Lord
 M: 3/4
 L: 1/4
-K: D
-|: "D"F G A | "F#"A3 | "G"G2-| "E"G z E | "A"E F G|
+K: D clef=alto
+|: "D"F G A | "F#"A2 "G"G2-| "E"G z E | "A"E F G|
 w: O-pen our eyes, Lord, -we want to see
 w: O-pen our ears, Lord, -and help use to
 %%vskip 1cm
