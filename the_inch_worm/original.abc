@@ -10,8 +10,8 @@ V:2 clef=bass
 [V:2] C, A, z | B,, G, z | C,/A,/ A, A, | B,,/G,/ G, z|
 [V:1] "Fmaj7"C/A/ A "F7"A |"Bbmaj7" c/F/ F "Bb_6"F |"Fmaj7" c/F/ F "Bb_6"F|"G-7" G2>  "C7"  |
 [V:2] C,A,/ A, A, | C,/F,/ F, F, | C,/F,/ F, F,| G,2> |
-[V:1] "Fmaj7" C2 A z | "Ebmaj7" B, G z | "Fmaj7" B,/G/ G z | "Ebmaj7" B,/G,/ G z |
-[V:2] C, A, z |B,, G, z |B,,/G,/ G, z | B,,/G,/ G, z |
+[V:1] "Fmaj7" C2 A z | "Ebmaj7" B, G z | "Fmaj7" B,/A/ A A | "Ebmaj7" B,/G/ G z |
+[V:2] C, A, z |B,, G, z |B,,/A,/ A, A, | B,,/G,/ G, z |
 [V:1] "Fmaj7" C/A/ A A | "BbMaj7" c/F/ F "Bb_6" F | "F6" d/F/ F "C7b9" E | "F6" F2> "(c7)" |
 w: | | | FINE |
 [V:2] C,A,/ A, A, | C,/F,/ F, F, | D,/F,/ F, E, | F,2> |
